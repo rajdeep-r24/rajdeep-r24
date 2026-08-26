@@ -7,7 +7,7 @@ Building autonomous agentic workflows, resilient production systems, and intelli
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajdeep-r24)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdeeprathod2410@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-rajdeeprathod2410@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rajdeeprathod2410@gmail.com)
 
 </div>
 
@@ -93,5 +93,7 @@ Building autonomous agentic workflows, resilient production systems, and intelli
 
 ### 🤝 Let's Connect & Collaborate!
 Feel free to explore my repositories, open issues, or reach out for hackathon collaborations and open-source projects.
+
+📧 **Email:** [rajdeeprathod2410@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=rajdeeprathod2410@gmail.com) • 🌐 **GitHub:** [github.com/rajdeep-r24](https://github.com/rajdeep-r24)
 
 </div>
