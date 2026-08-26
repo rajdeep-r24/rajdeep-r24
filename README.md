@@ -17,7 +17,6 @@ Building autonomous agentic workflows, resilient production systems, and intelli
 
 - 🤖 **Passionate about Generative AI & Autonomous Agents**: Engineering self-healing architectures, dynamic prompt pipelines, and real-time multimodal AI systems.
 - 🛠️ **System & Backend Builder**: Designing scalable, secure REST APIs, role-based access control (RBAC), and high-reliability background workers.
-- 🎯 **Hackathons & Competitions**: Active participant in MLH and AI innovation hackdays.
 
 ---
 
