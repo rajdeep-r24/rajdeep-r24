@@ -1,9 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Rajdeep Rathod 👋
+# Hi there, I'm Rajdeep Rathod <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### ⚡ Full-Stack & Generative AI Engineer
-Building autonomous agentic workflows, resilient production systems, and intelligent applications powered by **Google Gemini**.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=550&height=45&lines=Full-Stack+%26+Generative+AI+Engineer;Building+Autonomous+Agents+with+Google+Gemini;Engineering+Self-Healing+Systems;Crafting+Modern+Full-Stack+Web+Apps" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  Building autonomous agentic workflows, resilient production systems, and intelligent applications powered by <strong>Google Gemini</strong>.
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeep-rathod-520159322/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajdeep-r24)
@@ -21,6 +26,12 @@ Building autonomous agentic workflows, resilient production systems, and intelli
 ---
 
 ### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,ts,js,react,nextjs,tailwind,postgres,docker,git,linux,postman&perline=7" alt="Skills" />
+</div>
+
+<br />
 
 ```
   Languages:     Python • TypeScript • JavaScript • SQL • HTML5 / CSS3
@@ -85,6 +96,16 @@ Building autonomous agentic workflows, resilient production systems, and intelli
     </td>
   </tr>
 </table>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajdeep-r24&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&bg_color=0D1117" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-r24&theme=tokyonight&hide_border=true&stroke=6366F1&background=0D1117&ring=6366F1&fire=6366F1&currStreakNum=6366F1" alt="GitHub Streak" />
+</div>
 
 ---
 
