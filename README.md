@@ -100,15 +100,6 @@
   </tr>
 </table>
 
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajdeep-r24&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&bg_color=0D1117" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-r24&theme=tokyonight&hide_border=true&stroke=6366F1&background=0D1117&ring=6366F1&fire=6366F1&currStreakNum=6366F1" alt="GitHub Streak" />
-</div>
 
 ---
 
